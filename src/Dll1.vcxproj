@@ -150,6 +150,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="ctextrender.h" />
     <ClInclude Include="d3d.h" />
     <ClInclude Include="mem.h" />
     <ClInclude Include="stdafx.h" />

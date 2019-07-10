@@ -11,6 +11,7 @@
 #include <d3d9.h>
 #include "d3d.h"
 #include "VMProtectSDK.h"
+#include "ctextrender.h"
 #include "mem.h"
 #pragma comment(lib, "VMProtectSDK64.lib")
 #pragma comment(lib, "Dwrite.lib")
